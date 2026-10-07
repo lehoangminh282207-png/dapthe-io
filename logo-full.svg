@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" width="720" height="180">
+  <defs>
+    <linearGradient id="greenGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#20F477" />
+      <stop offset="100%" stop-color="#0FAE50" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E2E8F0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Left Icon Emblem -->
+  <g transform="translate(15, 15) scale(0.293)">
+    <rect width="512" height="512" rx="96" fill="#101512" stroke="#1c2b21" stroke-width="14"/>
+    <path d="M 140 110 L 260 110 C 350 110 400 170 400 256 C 400 342 350 402 260 402 L 140 402 Z" 
+          fill="#141A16" stroke="#223328" stroke-width="12"/>
+    <path d="M 190 350 L 256 295 L 322 350 L 296 350 L 256 316 L 216 350 Z" fill="#0FAE50" />
+    <path d="M 190 290 L 256 235 L 322 290 L 296 290 L 256 256 L 216 290 Z" fill="#16E36B" />
+    <path d="M 190 230 L 256 160 L 322 230 L 286 230 L 256 195 L 226 230 Z" fill="url(#greenGrad2)"/>
+    <path d="M 140 210 L 175 240 L 150 255 L 180 295 L 140 280 Z" fill="#20F477"/>
+  </g>
+
+  <!-- Brand Typography -->
+  <!-- DAPTHE -->
+  <text x="195" y="108" font-family="-apple-system, BlinkMacSystemFont, "Plus Jakarta Sans", Inter, sans-serif" 
+        font-weight="900" font-size="76" letter-spacing="2" fill="url(#textGrad)">DAPTHE</text>
+        
+  <!-- .IO Badge -->
+  <rect x="540" y="52" width="128" height="60" rx="14" fill="#101512" stroke="#16E36B" stroke-width="3.5"/>
+  <text x="562" y="98" font-family="-apple-system, BlinkMacSystemFont, "Plus Jakarta Sans", Inter, sans-serif" 
+        font-weight="900" font-size="44" fill="#20F477" letter-spacing="1">.IO</text>
+
+  <!-- Tagline underneath -->
+  <text x="198" y="145" font-family="-apple-system, BlinkMacSystemFont, "Plus Jakarta Sans", Inter, sans-serif" 
+        font-weight="600" font-size="16" letter-spacing="4.5" fill="#16E36B">ĐẬP THẺ • GHI DÂY • CHƠI THÔNG MINH</text>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "DAPTHE.IO — FC Online Upgrade Community",
+  "short_name": "DAPTHE",
+  "description": "Nền tảng cộng đồng FC Online về đập thẻ, mồi thẻ theo dây và phát hiện dây trùng.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050706",
+  "theme_color": "#16E36B",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
